@@ -14,7 +14,7 @@ Wir sind eine Gruppe von R Begeisterten, die sich gerne mit verschiedenen Themen
 
 **Adresse: tba**
 
-**Datum: 44. Kalenderwoche 2015 **
+**Datum: 44. Kalenderwoche 2015**
 
 Es ist ausdrücklich erwünscht das Besucher eigene Laptops mitbringen, um die Tutorials live mitzumachen.
 
