@@ -6,19 +6,19 @@ date:       2015-09-29 12:00:00
 author:     "Alex"
 header-img: "img/conference-1.jpg"
 ---
-Es ist soweit, das erste Treffen der neugegründeten R MeetUp Group in München steht bevor!
+Es ist soweit, das erste Treffen der neugegründeten R User Group in München steht bevor!
 
-Wir sind eine Gruppe von R Begeisterten, die sich gerne mit verschiedenen Themen im Dunstkreis statistische Programmierung, Machine Learning und Modellierung bewegen.
+Wir sind eine Gruppe von R-Begeisterten, die sich gerne mit verschiedenen Themen im Dunstkreis statistische Programmierung, Machine Learning und Modellierung mit R bewegen.
 
 ### Alle Infos zum Treffen:
 
 **Adresse: tba**
 
-**Datum: 44. Kalenderwoche 2015**
+**Datum: 44. Kalenderwoche 2015 (genaues Datum folgt bald)**
 
-Es ist ausdrücklich erwünscht das Besucher eigene Laptops mitbringen, um die Tutorials live mitzumachen.
+Es ist ausdrücklich erwünscht das Besucher eigene Laptops mitbringen, um die Tutorials live mit zu programmieren.
 
-### Topic: Eine Einführung in das R package *dplyr*
+### Topic: Eine Einführung in Hadley Wickhams R-Paket *dplyr*
 
 
 **Über den Speaker**:
