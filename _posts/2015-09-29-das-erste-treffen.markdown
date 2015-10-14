@@ -16,17 +16,17 @@ Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an de
 
 Redner: Philipp
 
-#### Wo: [Ludwigstraße 31, Raum XXX, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)
+#### Wo: [Ludwigstraße 31, Raum tba, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)
 
 #### Wann: Montag, 26. Oktober 2015 um 18:00
 
 
-Es ist ausdrücklich erwünscht  Laptops mitzubringen, um die Tutorials live mit zu programmieren.
+Es ist ausdrücklich erwünscht Laptops mitzubringen, um die Tutorials live in kleinen Gruppen mit zu programmieren.
 
-Warum *dplyr*?
+Drei Gründe für *dplyr*?
 
 * Großartig zur Daten-Exploration und -Manipulation
-* Intuitve zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
+* Intuitv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schnell, da in C++ geschrieben
 
 ---
