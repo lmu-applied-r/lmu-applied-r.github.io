@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      '"A Grammar of Data Manipulation" – Eine Einführung in das Paket dplyr'
-subtitle:   "Das erste Treffen von AppliedR - der R User Group in München"
+subtitle:   "Das erste Treffen von Applied R Munich - der R User Group in München"
 date:       2015-10-14 12:00:00
 author:     "Alex"
 header-img: "img/conference-1.jpg"
@@ -16,14 +16,15 @@ Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an de
 
 Redner: Philipp
 
-**Wo: [Ludwigstraße 31, Raum XXX, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)**
+#### Wo: [Ludwigstraße 31, Raum XXX, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)
 
-**Wann: 26. Oktober 2015 um 18:00**
+#### Wann: Montag, 26. Oktober 2015 um 18:00
 
 
 Es ist ausdrücklich erwünscht  Laptops mitzubringen, um die Tutorials live mit zu programmieren.
 
 Warum *dplyr*?
+
 * Großartig zur Daten-Exploration und -Manipulation
 * Intuitve zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schnell, da in C++ geschrieben
