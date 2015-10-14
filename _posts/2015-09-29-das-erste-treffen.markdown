@@ -1,29 +1,36 @@
 ---
 layout:     post
-title:      "Das erste Treffen steht bevor!"
-subtitle:   "Wir freuen uns die erste Ausgabe von Applied R austragen zu dürfen."
-date:       2015-09-29 12:00:00
+title:      '"A Grammar of Data Manipulation" – Eine Einführung in das Paket dplyr'
+subtitle:   "Das erste Treffen von AppliedR - der R User Group in München"
+date:       2015-10-14 12:00:00
 author:     "Alex"
 header-img: "img/conference-1.jpg"
 ---
 Es ist soweit, das erste Treffen der neugegründeten R User Group in München steht bevor!
 
-Wir sind eine Gruppe von R-Begeisterten, die sich gerne mit verschiedenen Themen im Dunstkreis statistische Programmierung, Machine Learning und Modellierung mit R bewegen.
+Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an der LMU. Unser Ziel ist es mit einem regelmäßigen Treffen, Studenten und allen denen R am Herzen liegt, eine Plattform zu bieten, um in lockerer Atmosphäre Neues rund um die Sprache R zu erfahren.
 
-### Alle Infos zum Treffen:
+---
 
-**Adresse: tba**
+## "A Grammar of Data Manipulation" – Eine Einführung in das Paket *dplyr*
 
-**Datum: 44. Kalenderwoche 2015 (genaues Datum folgt bald)**
+Redner: Philipp
 
-Es ist ausdrücklich erwünscht das Besucher eigene Laptops mitbringen, um die Tutorials live mit zu programmieren.
+**Wo: [Ludwigstraße 31, Raum XXX, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)**
 
-### Topic: Eine Einführung in Hadley Wickhams R-Paket *dplyr*
+**Wann: 26. Oktober 2015 um 18:00**
 
 
-**Über den Speaker**:
+Es ist ausdrücklich erwünscht  Laptops mitzubringen, um die Tutorials live mit zu programmieren.
 
-*Der Speaker ist ein topmotivierter Vertreter aus der R Community.*
+Warum *dplyr*?
+* Großartig zur Daten-Exploration und -Manipulation
+* Intuitve zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
+* Schnell, da in C++ geschrieben
+
+---
+
+
 
 
 
