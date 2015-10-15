@@ -26,7 +26,7 @@ Es ist ausdrücklich erwünscht Laptops mitzubringen, um die Tutorials live in k
 Drei Gründe für *dplyr*?
 
 * Großartig zur Daten-Exploration und -Manipulation
-* Intuitv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
+* Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schnell, da in C++ geschrieben
 
 ---
