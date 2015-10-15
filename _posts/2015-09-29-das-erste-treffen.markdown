@@ -14,7 +14,7 @@ Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an de
 
 ## "A Grammar of Data Manipulation" – Eine Einführung in das Paket *dplyr*
 
-Redner: Philipp
+Redner: Philipp J. Rösch
 
 #### Wo: [Ludwigstraße 31, Raum tba, LMU München](https://goo.gl/maps/FJi2QzNTwDT2)
 
@@ -25,7 +25,7 @@ Es ist ausdrücklich erwünscht Laptops mitzubringen, um die Tutorials live in k
 
 Drei Gründe für *dplyr*?
 
-* Großartig zur Daten-Exploration und -Manipulation
+* Großartig zur Datenexploration und -manipulation
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schnell, da in C++ geschrieben
 
