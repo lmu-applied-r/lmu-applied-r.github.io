@@ -23,11 +23,11 @@ Redner: Philipp J. Rösch
 
 Es ist ausdrücklich erwünscht Laptops mitzubringen, um die Tutorials live in kleinen Gruppen mit zu programmieren.
 
-Drei Gründe für *dplyr*?
+Drei Gründe für *dplyr*:
 
 * Großartig zur Datenexploration und -manipulation
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
-* Schnell, da in C++ geschrieben
+* Schneller als base R Befehle
 
 ---
 
