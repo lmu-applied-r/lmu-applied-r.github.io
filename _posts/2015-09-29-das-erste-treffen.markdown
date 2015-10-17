@@ -10,7 +10,6 @@ Es ist soweit, das erste Treffen der neugegründeten R User Group in München st
 
 Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an der LMU. Unser Ziel ist ein regelmäßiges Treffen für alle, denen R am Herzen liegt. Wir wollen eine Plattform bieten, um Neues und Interessantes rund um die Sprache R auszutauschen.
 
----
 
 ## "A Grammar of Data Manipulation" – Eine Einführung in das Paket *dplyr*
 
@@ -33,7 +32,7 @@ Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um die Tutorials live 
 
 dplyr ist ein Paket zur schnellen und effizienten Datenmanipulation. Neben einem Überblick zu den Funktionen, werden anhand von Beispielen die Wichtigsten hiervon detaillierter gezeigt. Der Talk beinhaltet ebenfalls eine Kurzeinführung zu dem Paket magrittr, welches automatisch mit dplyr geladen wird. Neben dem Vortrag wird es im zweiten Teil die Möglichkeit geben Tutorials zu bearbeiten. 
 
----
+
 
 
 
