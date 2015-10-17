@@ -9,6 +9,7 @@ header-img: "img/2015-dplyr.jpg"
 Es ist soweit, das erste Treffen der neugegründeten R User Group in München steht bevor!
 
 Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an der LMU. Unser Ziel ist ein regelmäßiges Treffen für alle, denen R am Herzen liegt. Wir wollen eine Plattform bieten, um Neues und Interessantes rund um die Sprache R auszutauschen.
+
 ---
 
 ## "A Grammar of Data Manipulation" – Eine Einführung in das Paket *dplyr*
