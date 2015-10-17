@@ -4,7 +4,7 @@ title:      '"A Grammar of Data Manipulation" – Eine Einführung in das Paket 
 subtitle:   "Das erste Treffen von Applied R Munich - der R User Group in München"
 date:       2015-10-14 12:00:00
 author:     "Alex"
-header-img: "img/conference-1.jpg"
+header-img: "img/2015-dplyr.jpg"
 ---
 Es ist soweit, das erste Treffen der neugegründeten R User Group in München steht bevor!
 
