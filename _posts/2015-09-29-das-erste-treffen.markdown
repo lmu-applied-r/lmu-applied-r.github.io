@@ -22,7 +22,7 @@ Redner: Philipp J. Rösch
 
 #### Wann: Montag, 26. Oktober 2015 um 18:00
 
-Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um die Tutorials live in kleinen Gruppen mit zu programmieren.
+Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentation Aufgaben zu bearbeiten.
 
 #### Drei Gründe für *dplyr*:
 
@@ -30,9 +30,11 @@ Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um die Tutorials live 
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schneller als base R Befehle
 
+---
+
 #### Inhalt des Vortrags:  
 
-dplyr ist ein Paket zur schnellen und effizienten Datenmanipulation. Neben einem Überblick zu den Funktionen, werden anhand von Beispielen die Wichtigsten hiervon detaillierter gezeigt. Der Talk beinhaltet ebenfalls eine Kurzeinführung zu dem Paket magrittr, welches automatisch mit dplyr geladen wird. Neben dem Vortrag wird es im zweiten Teil die Möglichkeit geben Tutorials zu bearbeiten. 
+*dplyr* ist ein Paket zur schnellen und effizienten Datenmanipulation. Neben einem Überblick zu den Funktionen werden anhand von Beispielen die Wichtigsten hiervon detaillierter gezeigt. Der Talk beinhaltet ebenfalls eine Kurzeinführung zu dem Paket *magrittr*, welches automatisch mit *dplyr* geladen wird. Neben dem Vortrag wird es im zweiten Teil die Möglichkeit geben Tutorials zu bearbeiten. 
 
 
 
