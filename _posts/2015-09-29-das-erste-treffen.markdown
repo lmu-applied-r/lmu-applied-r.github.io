@@ -31,9 +31,10 @@ Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentat
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schneller als base R Befehle
 
-
+---
 
 #### Inhalt des Vortrags:  
+
 
 *dplyr* ist ein Paket zur schnellen und effizienten Datenmanipulation. Neben einem Überblick zu den Funktionen werden anhand von Beispielen die Wichtigsten hiervon detaillierter gezeigt. Der Talk beinhaltet ebenfalls eine Kurzeinführung zu dem Paket *magrittr*, welches automatisch mit *dplyr* geladen wird. Neben dem Vortrag wird es im zweiten Teil die Möglichkeit geben Tutorials zu bearbeiten. 
 
