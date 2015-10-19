@@ -26,9 +26,11 @@ Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentat
 
 #### Drei Gründe für *dplyr*:
 
+
 * Großartig zur Datenexploration und -manipulation
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
 * Schneller als base R Befehle
+
 
 
 #### Inhalt des Vortrags:  
