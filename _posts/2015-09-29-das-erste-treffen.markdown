@@ -18,7 +18,7 @@ Wir sind eine Gruppe von sieben R-Enthusiasten vom Institut für Statistik an de
 
 Redner: Philipp J. Rösch
 
-#### Wo: [tba, LMU München](https://www.google.de/maps/place/Universit%C3%A4t/@48.1508519,11.5795045,18z/data=!4m6!1m3!3m2!1s0x479e7594f75ef01b:0x308116d8f587d11f!2sJuristische+Fakult%C3%A4t+der+Ludwig-Maximilians-Universit%C3%A4t!3m1!1s0x479e7594b0916b35:0x1db87fcdefd8f09e)
+#### Wo: [Geschwister-Scholl-Platz 1, Raum M203, LMU Hauptgebäude](https://www.google.de/maps/place/Universit%C3%A4t/@48.1508519,11.5795045,18z/data=!4m6!1m3!3m2!1s0x479e7594f75ef01b:0x308116d8f587d11f!2sJuristische+Fakult%C3%A4t+der+Ludwig-Maximilians-Universit%C3%A4t!3m1!1s0x479e7594b0916b35:0x1db87fcdefd8f09e)
 
 #### Wann: Montag, 26. Oktober 2015 um 18:00
 
@@ -29,7 +29,7 @@ Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentat
 
 * Großartig zur Datenexploration und -manipulation
 * Intuitiv zu schreiben und einfach zu lesen (vor allem wegen der "Chaining"-Syntax)
-* Schneller als base R Befehle
+* Schneller als *base* R Befehle
 
 ---
 
