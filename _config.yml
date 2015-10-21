@@ -5,8 +5,8 @@ email: appliedrmunich@gmail.com
 description: "Die R User Group in München"
 baseurl: ""
 url: "http://lmu-applied-r.github.io"
+meetup_username: Applied-R-Munich
 github_username:  lmu-applied-r
-meetup_username: applied-r-munich
 
 
 # Build settings
