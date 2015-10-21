@@ -21,6 +21,7 @@ Redner: Philipp J. Rösch
 #### Wo: [Geschwister-Scholl-Platz 1, Raum M203, <u>LMU Hauptgebäude</u>](https://www.google.de/maps/place/Universit%C3%A4t/@48.1508519,11.5795045,18z/data=!4m6!1m3!3m2!1s0x479e7594f75ef01b:0x308116d8f587d11f!2sJuristische+Fakult%C3%A4t+der+Ludwig-Maximilians-Universit%C3%A4t!3m1!1s0x479e7594b0916b35:0x1db87fcdefd8f09e)
 
 #### Wann: Montag, 26. Oktober 2015 um 18:00
+
 #### Anmeldung: Bitte melde dich über [<u>meetup<\u>](http://www.meetup.com/Applied-R-Munich/events/226110509/) für die Veranstaltung an
 
 Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentation Aufgaben zu bearbeiten.
