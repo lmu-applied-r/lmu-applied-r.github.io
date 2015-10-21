@@ -1,11 +1,12 @@
 # Site settings
 title: Applied R Munich
 header-img: img/home-bg.jpg
-email: appliedrmunich@googlemail.com
-description: "das R User Meetup in München"
+email: appliedrmunich@gmail.com
+description: "Die R User Group in München"
 baseurl: ""
 url: "http://lmu-applied-r.github.io"
 github_username:  lmu-applied-r
+meetup_username: applied-r-munich
 
 
 # Build settings
