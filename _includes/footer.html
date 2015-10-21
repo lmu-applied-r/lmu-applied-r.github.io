@@ -22,7 +22,17 @@
                         </a>
                     </li>
                     {% endif %}
-
+ 
+                    {% if site.meetup_username %}
+                    <li>
+                        <a href="https://www.meetup.com/{{ site.applied-r-munich/ }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
 
                     {% if site.facebook_username %}
                     <li>
