@@ -22,7 +22,7 @@ Redner: Philipp J. Rösch
 
 #### Wann: Montag, 26. Oktober 2015 um 18:00
 
-#### Anmeldung: Bitte melde dich über [<u>meetup<\u>](http://www.meetup.com/Applied-R-Munich/events/226110509/) für die Veranstaltung an
+#### Anmeldung: Bitte melde dich über [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226110509/) für die Veranstaltung an
 
 Es ist ausdrücklich **erwünscht Laptops mitzubringen**, um nach der Präsentation Aufgaben zu bearbeiten.
 
