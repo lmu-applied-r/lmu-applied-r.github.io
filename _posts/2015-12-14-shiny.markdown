@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      'Shiny – Creating interactive web applications in R'
+subtitle:   "Applied R Munich geht in die zweite Runde"
+date:       2015-11-20 12:00:00
+author:     "Philipp"
+header-img: "img/2015-shiny.png"
+---
+
+Das zweite Treffen der neugegründeten R User Group in München steht bevor!
+
+
+Applied R ist eine Gruppe von R-Enthusiasten vom Institut für Statistik an der LMU. Unser Ziel ist ein regelmäßiges Treffen für alle, denen R am Herzen liegt. Wir wollen eine Plattform bieten, um Neues und Interessantes rund um die Sprache R auszutauschen.
+
+---
+
+## "Shiny – Creating interactive web applications in R
+
+Redner: Renate Moller und Oliver Engl
+
+#### Wo: tba (melde dich am Besten bei [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/) an, um auf dem Laufenden zu bleiben.)
+<!---
+Geschwister-Scholl-Platz 1, <u>Raum A016</u>, [LMU Hauptgebäude](https://www.google.de/maps/place/Universit%C3%A4t/@48.1508519,11.5795045,18z/data=!4m6!1m3!3m2!1s0x479e7594f75ef01b:0x308116d8f587d11f!2sJuristische+Fakult%C3%A4t+der+Ludwig-Maximilians-Universit%C3%A4t!3m1!1s0x479e7594b0916b35:0x1db87fcdefd8f09e)
+--->
+#### Wann: Montag, 14. Dezember 2015 um 19:00
+
+#### Anmeldung: Bitte melde dich über [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/) für die Veranstaltung an!
+
+ 
+**Es ist ausdrücklich erwünscht Laptops mitzubringen**, um nach der Präsentation Tutorials zu bearbeiten.
+
+#### Was kann *shiny*:
+
+* Erstellen von Web-Anwendungen ohne Web-Development-Kenntnisse
+* Lediglich eine Handvoll neuer R-Funktionen nötig
+* Entstehende(s) Tool/Präsentation auch für fachfremde Personen geeignet
+
+---
+
+#### Inhalt des Vortrags:  
+
+Shiny ermöglicht es R-Usern, schnell und einfach interaktive Web-Applikationen zu erstellen. Zunächst soll ein Überblick über die zweigeteilte Struktur einer jeden Shiny-App gegeben 
+werden, gefolgt von den ersten Schritten zur Erstellung einer App sowie den vielfältigen  Möglichkeiten des Pakets. Zum Abschluss wird es nicht nur einen Einblick in eine komplexe Anwendung geben, sondern auch die Möglichkeit, unter Anleitung eigenständig eine kleine Shiny-App zu erstellen.
+
+
+
+
+
+
