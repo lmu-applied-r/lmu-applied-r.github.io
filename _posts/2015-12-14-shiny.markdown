@@ -14,7 +14,9 @@ Applied R ist eine Gruppe von R-Enthusiasten vom Institut für Statistik an der 
 
 ---
 
-## "Shiny – Creating interactive web applications in R
+Applied R Dezember-Edition:
+
+## Shiny – Creating interactive web applications in R
 
 Redner: Renate Moller und Oliver Engl
 

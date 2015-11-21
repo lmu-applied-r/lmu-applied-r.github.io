@@ -14,6 +14,8 @@ Wir sind eine Gruppe von R-Enthusiasten vom Institut für Statistik an der LMU. 
 
 ---
 
+Applied R Oktober-Edition:
+
 ## "A Grammar of Data Manipulation" – Eine Einführung in das Paket *dplyr*
 
 Redner: Philipp J. Rösch
