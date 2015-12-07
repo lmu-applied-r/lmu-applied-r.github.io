@@ -20,7 +20,7 @@ Applied R Dezember-Edition:
 
 Redner: Renate Moller und Oliver Engl
 
-#### Wo: tba (melde dich bitte bei [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/) an, um auf dem Laufenden zu bleiben.)
+#### Wo: Raum F007, LMU-Hauptgebäude (melde dich bitte bei [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/) an!)
 <!---
 Geschwister-Scholl-Platz 1, <u>Raum A016</u>, [LMU Hauptgebäude](https://www.google.de/maps/place/Universit%C3%A4t/@48.1508519,11.5795045,18z/data=!4m6!1m3!3m2!1s0x479e7594f75ef01b:0x308116d8f587d11f!2sJuristische+Fakult%C3%A4t+der+Ludwig-Maximilians-Universit%C3%A4t!3m1!1s0x479e7594b0916b35:0x1db87fcdefd8f09e)
 --->
