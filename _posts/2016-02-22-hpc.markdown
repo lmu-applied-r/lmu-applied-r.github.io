@@ -2,7 +2,7 @@
 layout:     post
 title:      'High Performance Computing with R at the Leibniz Supercomputing Center'
 subtitle:   "Applied R Munich 3rd MeetUp"
-date:       2016-02-22 13:40:00
+date:       2016-01-19 13:40:00
 author:     "Andreas"
 header-img: "img/2016-lrz-supermuc.jpg"
 ---
