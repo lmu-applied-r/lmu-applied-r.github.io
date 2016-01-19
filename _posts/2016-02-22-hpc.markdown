@@ -1,0 +1,56 @@
+---
+layout:     post
+title:      'High Performance Computing with R at the Leibniz Supercomputing Center'
+subtitle:   "Applied R Munich 3rd MeetUp"
+date:       2016-02-22 13:40:00
+author:     "Andreas"
+header-img: "img/2016-lrz-supermuc.jpg"
+---
+
+The 3rd MeetUp of the newly found R User Group in Munich!
+
+
+Applied R is a group of R-enthusiasts from the department of statistics (LMU). 
+Our goal is to organize regular MeetUps for everyone enthusiastic and interested 
+in R and to provide a platform for exchange about everything related to R.
+
+---
+
+Applied R February-Edition:
+
+## High Performance Computing with R at the Leibniz Supercomputing Center
+
+Speakers: 
+
+- Christoph Bernau (Department for high performance computing at Leibniz Supercomputing Center)
+- Bernd Bischl (Professor for Computational Statistics at LMU)
+
+#### Where: tba
+If you are interested in hosting the event, please contact the organizers. 
+
+#### When: Monday, 22. February 2016 um 19:00
+
+#### Registration: Please register via [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/)!
+
+
+---
+
+#### Topics:  
+
+Within the last 10 years, more and more researchers using R have run their 
+projects at the Leibniz Supercomputing center (LRZ). In the talk, we will 
+present the different approaches that have been applied in the last years in 
+order to port R-scripts, which have originally been run on normal hardware, to 
+the various HPC systems at LRZ. We will cover approaches for large shared memory 
+machines, clusters, cloud like environments (comparable to Amazon EC2 or Azure), 
+web-based solutions like RStudio Server and real supercomputers like LRZ's 
+supermuc with its approximately 240000 computing cores.
+
+We will illustrate the HPC approaches using a wide variety of R packages 
+including multicore, snow, rredis, snowfall, the various 'do-variants' 
+(doMC, doRedis, doSNOW), BatchJobs, BatchExperiments and the MPI based packages 
+RMPI and pbdMPI.
+
+The first part of the talk will be presented by Christoph Bernau.
+In the second part of the talk Bernd Bischl offers more details on the packages 
+BatchJobs and BatchExperiments.
