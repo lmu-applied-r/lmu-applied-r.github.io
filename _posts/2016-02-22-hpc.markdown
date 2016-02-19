@@ -25,10 +25,13 @@ Speakers:
 - Christoph Bernau (Department for high performance computing at Leibniz Supercomputing Center)
 - Bernd Bischl (Professor for Computational Statistics at LMU)
 
-#### Where: tba
-If you are interested in hosting the event, please contact the organizers. 
+#### Where: 
+LMU Munich
+Room W 201/Lehrturm 
+Professor-Huber-Platz 2, München
+How to get there: U3/U6 Universität, Exit B, take escalator up, door on the right. 
 
-#### When: Monday, 22. February 2016 um 19:00
+#### When: Monday, 22. February 2016,  19:00
 
 #### Registration: Please register via [<u>meetup</u>](http://www.meetup.com/Applied-R-Munich/events/226912554/)!
 
