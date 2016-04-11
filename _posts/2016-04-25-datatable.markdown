@@ -2,7 +2,7 @@
 layout:     post
 title:      'Introduction to data.table'
 subtitle:   "Applied R April Edition"
-date:       2016-04-11 17:40:00
+date:       2016-04-11 17:20:00
 author:     "Philipp"
 header-img: "img/home-bg.jpg"
 ---
