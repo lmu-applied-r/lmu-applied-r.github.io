@@ -2,7 +2,7 @@
 layout:     post
 title:      'R Use Cases at Stylight & Introduction to SparkR'
 subtitle:   "Applied R August Edition"
-date:       2016-07-26 13:40:00
+date:       2016-07-20 13:40:00
 author:     "Philipp"
 header-img: "img/2016-lrz-supermuc.jpg"
 ---
